@@ -26,6 +26,7 @@ type dataSimpanPinjam struct {
 }
 type simpanPinjamTransaksi [NMAX]dataSimpanPinjam
 
+//komen testing
 // Fungsi utama
 func main() {
 	var pilihan, jumlahData, jumlahDataSP int
